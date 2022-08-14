@@ -1,0 +1,9 @@
+Feature: Load
+  As a user I want to load a saved game
+
+  Scenario: Player loads previously saved game
+    Given player is in the Load page
+    And there is a saved session in the list
+    When Player chooses the saved session
+    And Player press the “ok” button
+    Then desired session should be loaded by the system
