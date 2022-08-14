@@ -27,9 +27,6 @@ Project Explanation:
  # Login Page
  
  ![image](https://user-images.githubusercontent.com/102985575/184544404-12265507-617d-49a7-be63-f7f9a1f32573.png)
-
- 
- # Credits
  
  # Load
  
