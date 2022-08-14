@@ -1,0 +1,7 @@
+Feature Login 
+	      
+Scenario Player logins to the system 
+Given players in the Login page  
+When Player enters the correct user credentials 
+And Player presses ok button 
+Then player should be logged in to the system  
